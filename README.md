@@ -1,1 +1,4 @@
 # PRAKTIKUM-MACHINE-LEARNING
+
+Nama: Amanda Febriyanti
+Nim : 105841101223
